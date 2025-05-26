@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+
+    padding: 10px;
+    background-color: black;
+}
+
+header nav {
+    display: flex;
+    gap: 2ch;
+}
+
+header button {
+    border: none;
+    background-color: transparent;
+    color: white;
+    font-size: x-large;
+    cursor: pointer;
+}
+
+header button img {
+    display: block;
+}
+
+header button:hover {
+    scale: 1.1;
+}
+
+main {
+    padding: 10px;
+}
