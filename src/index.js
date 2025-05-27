@@ -23,7 +23,7 @@ function showHome()
 <hr>
 <br>
 <p>
-    Making the spiciest pizza in town since 1984
+    Making the most hardcore pizza in town since 1984!
 </p>
     `;
 }
